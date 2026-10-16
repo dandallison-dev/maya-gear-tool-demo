@@ -9,10 +9,14 @@ Two tools I built to speed up asset setup and reduce manual entry errors.
 
 Artists enter an asset name, gear-piece types, and armor status. The tool validates the inputs, then generates the entry and copies it to the clipboard.
 
-![Gearset tool demo](Gearset_Tool_Demo.gif)
+![Gearset tool demo](Gearset_Tool_Demo_Public.gif)
+
+[Watch the MP4 version](MayaPython_GearsetGenerator.mp4)
 
 ## Bullet tool
 
 [Add one sentence explaining what the Bullet tool automates and what the artist receives.]
 
-![Bullet tool demo](Bullet_Tool_Demo.gif)
+![Bullet tool demo](Bullet_Tool_Demo_Public.gif)
+
+[Watch the MP4 version](MayaPython_BulletGenerator.mp4)
